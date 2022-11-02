@@ -4,7 +4,6 @@ simple api app to detect the weather status
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Current Features](#current-features)
-4. [Installation](#installation)
 
 ## General Info
 a NATIVE-PHP, API reader back-end website for showing Weather Status
